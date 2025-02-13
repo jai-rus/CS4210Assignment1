@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Jairus Legion
 # FILENAME: decision_tree.py
-# SPECIFICATION: description of the program
+# SPECIFICATION: This program will read in a csv file and output a decision tree.
 # FOR: CS 4210- Assignment #1
 # TIME SPENT: 5 hours
 #-----------------------------------------------------------*/
